@@ -1,5 +1,5 @@
 <a>
-  <img src="https://github.com/ralphrazzouk/ralphrazzouk/src/img/razz.gif">
+  <img src="https://github.com/ralphrazzouk/ralphrazzouk/src/img/razz.png">
 </a>
 
 ### [Ralph Razzouk](https://ralphrazzouk.com)
