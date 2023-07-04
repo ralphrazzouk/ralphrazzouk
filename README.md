@@ -2,7 +2,7 @@
 ### 👋 I am [Ralph Razzouk](https://ralphrazzouk.com)
 
 <a href="https://www.linkedin.com/in/ralphrazzouk/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" fill="#AB7C94" />
+  <svg align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" fill="#AB7C94" />
 </a>
 <a href="https://youtube.com/@Razzouk">
   <img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
