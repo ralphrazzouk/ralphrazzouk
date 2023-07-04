@@ -8,19 +8,19 @@
 
 <div align=center>
   <a href="https://www.linkedin.com/in/ralphrazzouk/">
-    <img alt="LinkedIn" width="22px" src="/src/icons/socials/linkedin.png"/>
+    <img alt="LinkedIn" width="28px" src="/src/icons/socials/linkedin.png"/>
   </a>
   
   <a href="https://youtube.com/@Razzouk">
-    <img alt="YouTube" width="22px" src="/src/icons/socials/youtube.png" />
+    <img alt="YouTube" width="28px" src="/src/icons/socials/youtube.png" />
   </a>
   
   <a href="https://instagram.com/rlphrazz">
-    <img alt="Instagram" width="22px" src="/src/icons/socials/instagram.png"/>
+    <img alt="Instagram" width="28px" src="/src/icons/socials/instagram.png"/>
   </a>
   
   <a href="https://twitter.com/rlphrazz">
-    <img alt="Twitter" width="22px" src="/src/icons/socials/twitter.png"/>
+    <img alt="Twitter" width="28px" src="/src/icons/socials/twitter.png"/>
   </a>
 </div>
 
