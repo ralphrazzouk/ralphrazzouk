@@ -6,7 +6,6 @@
   <h1 style="text-align: center;">Ralph Razzouk</h1>
 </a>
 
-### 
 
 <a href="https://www.linkedin.com/in/ralphrazzouk/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
