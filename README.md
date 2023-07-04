@@ -1,3 +1,15 @@
+<!-- RESOURCES:
+- https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/MarikIshtar007.md
+- https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/tabular/Delta456.md
+- https://github.com/lowlighter/metrics
+- https://github.com/anuraghazra/github-readme-stats
+- https://github.com/abhisheknaiidu/awesome-github-profile-readme
+- https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md
+- https://github.com/rzashakeri/beautify-github-profile
+- https://github.com/rzashakeri/rzashakeri/blob/main/README.md
+- https://github.com/yoshi389111/github-profile-3d-contrib
+- https://github.com/lowlighter/metrics -->
+
 <a href="https://github.com/ralphrazzouk" align=center>
   <img src="/src/img/Rsquared.gif" alt="Razz">
 </a>
