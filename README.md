@@ -1,4 +1,4 @@
-<a href="https://github.com/ralphrazzouk">
+<a href="https://github.com/ralphrazzouk" align=center>
   <img src="/src/img/razz.gif" alt="Razz" align=center width="400" style="border-radius:50%;">
 </a>
 
@@ -6,7 +6,7 @@
 <h1 align=center>Ralph Razzouk</h1>
 
 
-<div align=center >
+<div align=center>
   <a href="https://www.linkedin.com/in/ralphrazzouk/">
     <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
   </a>
