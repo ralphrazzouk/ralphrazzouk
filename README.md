@@ -1,5 +1,6 @@
-<img src="https://github.com/ralphrazzouk/ralphrazzouk/src/img/razz.png" alt="Razz">
-
+<a href="https://github.com/ralphrazzouk">
+  <img src="/src/img/razz.png" alt="Razz">
+</a>
 
 <a href="https://ralphrazzouk.com">
   <h1 align=center>Ralph Razzouk</h1>
