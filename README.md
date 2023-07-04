@@ -1,4 +1,5 @@
 <a href="https://github.com/ralphrazzouk" align=center>
+  ![Razz](./src/img/razz.gif =x1080)
   <img src="/src/img/razz.gif" alt="Razz" align=center width="400" style="border-radius:50%;">
 </a>
 
