@@ -2,9 +2,9 @@
   <img src="/src/img/razz.gif" alt="Razz" align=center width="400" style="border-radius:50%;">
 </a>
 
-<a href="https://ralphrazzouk.com">
-  <h1 align=center>Ralph Razzouk</h1>
-</a>
+
+<h1 align=center>Ralph Razzouk</h1>
+
 
 <div align=center >
   <a href="https://www.linkedin.com/in/ralphrazzouk/">
@@ -27,6 +27,7 @@
 <br />
 <br />
 
+- 📄 | [Portfolio](https://ralphrazzouk.com)
 - 📜 | [Curriculum Vitae](https://drive.google.com/file/u/1/d/1gf7bQlFoabm6QLsqSVjmx9bmzOFSoTwC/view?usp=share_link)
 - 🏫 | B.Sc. Mathematics (Completed May 2023)
 - ⚛️ | Ph.D. Theoretical High-Energy Physics (In Progress...)
