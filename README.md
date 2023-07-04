@@ -1,12 +1,11 @@
-<a href="https://github.com/ralphrazzouk/">
-  <img src="https://github.com/ralphrazzouk/ralphrazzouk/src/img/razz.png" alt="Razz">
-</a>
+<img src="https://github.com/ralphrazzouk/ralphrazzouk/src/img/razz.png" alt="Razz">
+
 
 <a href="https://ralphrazzouk.com">
   <h1 align=center>Ralph Razzouk</h1>
 </a>
 
-<div align=center>
+<div align=center >
   <a href="https://www.linkedin.com/in/ralphrazzouk/">
     <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
   </a>
