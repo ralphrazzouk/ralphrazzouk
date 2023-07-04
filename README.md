@@ -22,6 +22,10 @@
   <a href="https://twitter.com/rlphrazz">
     <img alt="Twitter" width="28px" src="/src/icons/socials/twitter.png"/>
   </a>
+
+  <a href="https://t.me/RalphRazzouk">
+    <img alt="Telegram" width="28px" src="/src/icons/socials/telegram.png"/>
+  </a>
 </div>
 
 <br />
