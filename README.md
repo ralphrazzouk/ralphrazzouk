@@ -41,6 +41,7 @@
 - 📩 | [Email](rlphrazz@gmail.com)
 
 
+
 <h2>My Research Interests</h2>
 
 - String Theory
@@ -54,11 +55,14 @@
 - Quantum Complexity
 
 
+
 <h2>I am open to</h2>
+
 - any collobration work
 - computational physics (development or research)
 - machine learning projects (development or research)
 - research internships
+
 
 
 <h2>My Projects</h2>
