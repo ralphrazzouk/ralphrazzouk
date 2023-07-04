@@ -1,5 +1,5 @@
 <a href="https://github.com/ralphrazzouk">
-  <img src="/src/img/razz.gif" alt="Razz" width="400" height="400">
+  <img src="/src/img/razz.gif" alt="Razz" align=center width="400" height="400">
 </a>
 
 <a href="https://ralphrazzouk.com">
