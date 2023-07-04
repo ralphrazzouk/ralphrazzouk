@@ -63,7 +63,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ralphrazzouk/alcubierredrive-simulator"><b>alcubierredrive-simulator</b></a></td>
+      <td><a href="https://github.com/ralphrazzouk/alcubierredrive-simulator"><b>Alcubierre Drive</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
     </tr>
