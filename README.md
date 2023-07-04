@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://ralphrazzouk.com">
-  <h1 style="text-align: center;">Ralph Razzouk</h1>
+  <p style="text-align: center;">Sample text with center alignment</p>
 </a>
 
 
