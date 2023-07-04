@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://ralphrazzouk.com">
-  <h1 style="text-align: center;">Ralph Razzouk</h1>
+  <h2 style="text-align: center;">Ralph Razzouk</h2>
 </a>
 
 
