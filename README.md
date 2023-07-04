@@ -32,6 +32,7 @@
 - 🏫 | B.Sc. Mathematics (Completed May 2023)
 - ⚛️ | Ph.D. Theoretical High-Energy Physics (In Progress...)
 - 📜 | Favorite Equation: $G_{μν} = \frac{8 \pi G}{c^4} T_{μν}$
+- 💻 | Favorite Programming Langauge: Python <img alt="Python" width="28px" src="/src/icons/python.svg"/>
 - 📚 | Learning:
 - 🔭 | Working:
 - 📩 | [Email](rlphrazz@gmail.com)
