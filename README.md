@@ -46,6 +46,7 @@
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
+      <td><b>📃 Paper</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
     </tr>
@@ -54,18 +55,21 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/ralphrazzouk/blackhole-simulator"><b>Black Hole Simulator</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Paper" src="https://img.shields.io/github/stars/ralphrazzouk/blackhole-simulator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ralphrazzouk/blackhole-simulator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ralphrazzouk/blackhole-simulator?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/ralphrazzouk/quantumtunneling-simulator"><b>Quantum Tunneling</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Paper" src="https://img.shields.io/github/stars/ralphrazzouk/quantumtunneling-simulator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ralphrazzouk/quantumtunneling-simulator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ralphrazzouk/quantumtunneling-simulator?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ralphrazzouk/alcubierredrive-simulator"><b>Alcubierre Drive</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Paper" src="https://img.shields.io/github/stars/ralphrazzouk/alcubierredrive-simulator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ralphrazzouk/alcubierredrive-simulator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ralphrazzouk/alcubierredrive-simulator?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
