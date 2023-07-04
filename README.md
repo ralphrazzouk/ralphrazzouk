@@ -41,7 +41,7 @@
 - 📩 | [Email](rlphrazz@gmail.com)
 
 
-<h1>My Projects</h1>
+<h2>My Projects</h2>
 <table>
   <thead align="center">
     <tr border: none;>
