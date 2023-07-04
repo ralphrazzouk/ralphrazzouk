@@ -1,5 +1,5 @@
 <a href="https://github.com/ralphrazzouk" align=center>
-  <img src="/src/img/razz.gif" alt="Razz" align=center height="200" style="background-size:cover;">
+  <img src="/src/img/Rsquared.gif" alt="Razz" align=center height="200" style="background-size:cover;">
 </a>
 
 
