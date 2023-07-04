@@ -6,7 +6,7 @@
 <h1 align=center>Ralph Razzouk</h1>
 
 
-<div align=center>
+<div align=center padding=20>
   <a href="https://www.linkedin.com/in/ralphrazzouk/">
     <img alt="LinkedIn" width="28px" src="/src/icons/socials/linkedin.png"/>
   </a>
