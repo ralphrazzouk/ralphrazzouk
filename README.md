@@ -6,25 +6,21 @@
 <h1 align=center>Ralph Razzouk</h1>
 
 <div align=center>
-  <a href="https://www.linkedin.com/in/ralphrazzouk/">
-    <img alt="LinkedIn" width="28px" src="/src/icons/socials/linkedin.png"/>
-  </a>
-  
-  <a href="https://youtube.com/@Razzouk">
-    <img alt="YouTube" width="28px" src="/src/icons/socials/youtube.png" />
-  </a>
-  
-  <a href="https://instagram.com/rlphrazz">
-    <img alt="Instagram" width="28px" src="/src/icons/socials/instagram.png"/>
-  </a>
-  
-  <a href="https://twitter.com/rlphrazz">
-    <img alt="Twitter" width="28px" src="/src/icons/socials/twitter.png"/>
-  </a>
-
-  <a href="https://t.me/RalphRazzouk">
-    <img alt="Telegram" width="28px" src="/src/icons/socials/telegram.png"/>
-  </a>
+	<a href="https://instagram.com/rlphrazz">
+		<img alt="Instagram" width="28px" src="/src/icons/socials/instagram.png"/>
+	</a>
+	<a href="https://youtube.com/@Razzouk">
+		<img alt="YouTube" width="28px" src="/src/icons/socials/youtube.png" />
+	</a>
+	<a href="https://twitter.com/rlphrazz">
+		<img alt="Twitter" width="28px" src="/src/icons/socials/twitter.png"/>
+	</a>
+	<a href="https://www.linkedin.com/in/ralphrazzouk/">
+		<img alt="LinkedIn" width="28px" src="/src/icons/socials/linkedin.png"/>
+	</a>
+	<a href="https://t.me/RalphRazzouk">
+		<img alt="Telegram" width="28px" src="/src/icons/socials/telegram.png"/>
+	</a>
 </div>
 
 
