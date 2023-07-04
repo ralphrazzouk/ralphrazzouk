@@ -27,11 +27,11 @@
 <br />
 <br />
 
-
-- 🏫 | B.Sc. Mathematics
-- ⚛️ | Ph.D. Theoretical High-Energy Physics
+- 📜 | [Curriculum Vitae](https://drive.google.com/file/u/1/d/1gf7bQlFoabm6QLsqSVjmx9bmzOFSoTwC/view?usp=share_link)
+- 🏫 | B.Sc. Mathematics (Completed May 2023)
+- ⚛️ | Ph.D. Theoretical High-Energy Physics (In Progress...)
 - 📜 | Favorite Equation: G_μν = (8πG/c⁴) T_μν
 - 📚 | Learning:
 - 🔭 | Working:
-- 📩 | How to reach me: [Email](rlphrazz@gmail.com)
+- 📩 | [Email](rlphrazz@gmail.com)
 -->
