@@ -1,5 +1,8 @@
+<a>
+  <img src="https://github.com/ralphrazzouk/ralphrazzouk/src/img/razz.gif">
+</a>
 
-### 👋 I am [Ralph Razzouk](https://ralphrazzouk.com)
+### [Ralph Razzouk](https://ralphrazzouk.com)
 
 <a href="https://www.linkedin.com/in/ralphrazzouk/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" fill="#AB7C94" />
