@@ -70,10 +70,10 @@
 <h2>My Research Interests</h2>
 
 - Mathematical Physics
+- Quantum Gravity
 - String Theory
 - Conformal Field Theory
 - Black Holes
-- Quantum Gravity
 - Dark Matter
 - Dark Energy
 - Computational Physics
