@@ -55,20 +55,21 @@
 <br />
 <br />
 
-- 📄 | [Portfolio](https://ralphrazzouk.com)
+- 📄 | [Website](https://ralphrazzouk.com)
 - 📜 | [Curriculum Vitae](https://drive.google.com/file/u/1/d/1gf7bQlFoabm6QLsqSVjmx9bmzOFSoTwC/view?usp=share_link)
 - 🏫 | B.Sc. Mathematics (Completed May 2023)
-- ⚛️ | Ph.D. Theoretical High-Energy Physics (Expected May 2028)
+- ⚛️ | Ph.D. Theoretical High-Energy and Mathematical Physics (Expected May 2028)
 - 📜 | Favorite Equation: $G_{μν} = \frac{8 \pi G}{c^4} T_{μν}$
 - 💻 | Favorite Programming Langauge: <img alt="Python" width="16px" src="/src/icons/python2.png"/> Python
-- 📚 | Learning:
-- 🔭 | Working:
+- 📚 | Learning: Mathematical physics and quantum computation
+- 🔭 | Researching: TBA
 - 📩 | [Email](rlphrazz@gmail.com)
 
 
 
 <h2>My Research Interests</h2>
 
+- Mathematical Physics
 - String Theory
 - Conformal Field Theory
 - Black Holes
@@ -76,6 +77,7 @@
 - Dark Matter
 - Dark Energy
 - Computational Physics
+- Quantum Computation
 - Quantum Biology
 - Quantum Complexity
 
