@@ -56,7 +56,7 @@
 <br />
 
 - 📄 | [Website](https://ralphrazzouk.com)
-- 📜 | [Curriculum Vitae](https://drive.google.com/file/u/1/d/1gf7bQlFoabm6QLsqSVjmx9bmzOFSoTwC/view?usp=share_link)
+- 📜 | [Curriculum Vitae](https://drive.google.com/file/d/19cTik527QDTQhS6Q5LMFCgOLGnt8Wrgh/view?usp=sharing)
 - 🏫 | B.Sc. Mathematics (Completed May 2023)
 - ⚛️ | Ph.D. Theoretical High-Energy and Mathematical Physics (Expected May 2028)
 - 📜 | Favorite Equation: $G_{μν} = \frac{8 \pi G}{c^4} T_{μν}$
