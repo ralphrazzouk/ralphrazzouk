@@ -129,9 +129,9 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralphrazzouk&layout=donut&title_color=ff0000&icon_color=ffffff&text_color=ffffff&bg_color=141414&show_icons=true)](https://github.com/ralphrazzouk/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralphrazzouk&layout=donut&title_color=ff0000&icon_color=ffffff&text_color=ffffff&bg_color=141414&border_color=141414&show_icons=true)](https://github.com/ralphrazzouk/github-readme-stats)
 
 <br />
 <br />
 
-[![Razz GitHub stats](https://github-readme-stats.vercel.app/api?username=ralphrazzouk&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=141414&show_icons=true)](https://github.com/ralphrazzouk/github-readme-stats)
+[![Razz GitHub stats](https://github-readme-stats.vercel.app/api?username=ralphrazzouk&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=141414&border_color=141414&show_icons=true)](https://github.com/ralphrazzouk/github-readme-stats)
