@@ -61,8 +61,8 @@
 - ⚛️ | Ph.D. Theoretical High-Energy and Mathematical Physics (Expected May 2028)
 - 📜 | Favorite Equation: $G_{μν} = \frac{8 \pi G}{c^4} T_{μν}$
 - 💻 | Favorite Programming Langauge: <img src="/src/icons/python2.png" alt="Python" width="16px"/> Python
-- 📚 | Learning: Mathematical physics and quantum computation
-- 🔭 | Researching: TBA
+- 📚 | Learning: Quantum field theory, differential geometry, and quantum machine learning
+- 🔭 | Researching: S-matrix Gauge Bootstrap and Quantum Machine Learning
 - 📩 | [Email](rlphrazz@gmail.com)
 
 
