@@ -49,6 +49,12 @@
 	<a href="https://t.me/RalphRazzouk/"><img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
 
+<div align=center>
+	<a href="https://visitcount.itsvg.in">
+	  <img src="https://visitcount.itsvg.in/api?id=ralphrazzouk&label=Profile%20Views&color=12&icon=5&pretty=true" />
+	</a>
+</div>
+
 
 
 
