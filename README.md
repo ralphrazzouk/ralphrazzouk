@@ -55,13 +55,6 @@
 <br />
 <br />
 
-
-[![Razz GitHub stats](https://github-readme-stats.vercel.app/api?username=ralphrazzouk&theme=dark&show_icons=true)](https://github.com/ralphrazzouk/github-readme-stats)
-
-
-<br />
-<br />
-
 - 📄 | [Website](https://ralphrazzouk.com)
 - 📜 | [Curriculum Vitae](https://drive.google.com/file/d/19cTik527QDTQhS6Q5LMFCgOLGnt8Wrgh/view?usp=sharing)
 - 🏫 | B.Sc. Mathematics (Completed May 2023)
@@ -131,3 +124,9 @@
     </tr>
   </tbody>
 </table>
+
+
+<br />
+<br />
+
+[![Razz GitHub stats](https://github-readme-stats.vercel.app/api?username=ralphrazzouk&theme=dark&show_icons=true)](https://github.com/ralphrazzouk/github-readme-stats)
