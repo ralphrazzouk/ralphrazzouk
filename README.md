@@ -129,7 +129,7 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralphrazzouk)](https://github.com/ralphrazzouk/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralphrazzouk&layout=donut)](https://github.com/ralphrazzouk/github-readme-stats)
 
 <br />
 <br />
