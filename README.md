@@ -38,36 +38,24 @@
 
 
 <div align=center>
-	<a href="https://www.instagram.com/rlphrazz/">
-		<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-	</a>
+	<a href="https://www.instagram.com/rlphrazz/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.youtube.com/@Razzouk">
-		<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-	</a>
+	<a href="https://www.youtube.com/@Razzouk"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.twitter.com/rlphrazz/">
-		<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-	</a>
+	<a href="https://www.twitter.com/rlphrazz/"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.linkedin.com/in/ralphrazzouk/">
-		<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-	</a>
+	<a href="https://www.linkedin.com/in/ralphrazzouk/"><img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://t.me/RalphRazzouk/">
-		<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-	</a>
+	<a href="https://t.me/RalphRazzouk/"><img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://visitcount.itsvg.in">
-	  <img src="https://visitcount.itsvg.in/api?id=ralphrazzouk&label=Profile%20Views&color=12&icon=5&pretty=true" />
-	</a>
+	<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=ralphrazzouk&label=Profile%20Views&color=12&icon=5&pretty=true" /></a>
 </div>
 
 <div align=center>
-	
+	[![Razz GitHub stats](https://github-readme-stats.vercel.app/api?username=ralphrazzouk&theme=dark&show_icons=true)](https://github.com/ralphrazzouk/github-readme-stats)
 </div>
 
-[![Razz GitHub stats](https://github-readme-stats.vercel.app/api?username=ralphrazzouk&theme=dark&show_icons=true)](https://github.com/ralphrazzouk/github-readme-stats)
+
 
 
 
