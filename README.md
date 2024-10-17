@@ -103,26 +103,32 @@
     </tr>
   </thead>
   
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/ralphrazzouk/blackhole-simulator"><b>Black Hole Simulator</b></a></td>
-      <td><img alt="Paper" src="https://img.shields.io/github/stars/ralphrazzouk/blackhole-simulator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ralphrazzouk/blackhole-simulator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ralphrazzouk/blackhole-simulator?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/ralphrazzouk/quantumtunneling-simulator"><b>Quantum Tunneling</b></a></td>
-      <td><img alt="Paper" src="https://img.shields.io/github/stars/ralphrazzouk/quantumtunneling-simulator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ralphrazzouk/quantumtunneling-simulator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ralphrazzouk/quantumtunneling-simulator?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ralphrazzouk/alcubierredrive-simulator"><b>Alcubierre Drive</b></a></td>
-      <td><img alt="Paper" src="https://img.shields.io/github/stars/ralphrazzouk/alcubierredrive-simulator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ralphrazzouk/alcubierredrive-simulator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ralphrazzouk/alcubierredrive-simulator?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
+<tbody>
+	<tr>
+		<td><a href="https://github.com/ralphrazzouk/quantum-gate-visualizer"><b>Quantum Gate Visualizer</b></a></td>
+		<td><img alt="Paper" src="https://img.shields.io/github/stars/ralphrazzouk/quantum-gate-visualizer?style=flat-square&labelColor=343b41"/></td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/ralphrazzouk/quantum-gate-visualizer?style=flat-square&labelColor=343b41"/></td>
+		<td><img alt="Forks" src="https://img.shields.io/github/forks/ralphrazzouk/quantum-gate-visualizer?style=flat-square&labelColor=343b41"/></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/ralphrazzouk/black-hole-simulator"><b>Black Hole Simulator</b></a></td>
+		<td><img alt="Paper" src="https://img.shields.io/github/stars/ralphrazzouk/blackhole-simulator?style=flat-square&labelColor=343b41"/></td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/ralphrazzouk/blackhole-simulator?style=flat-square&labelColor=343b41"/></td>
+		<td><img alt="Forks" src="https://img.shields.io/github/forks/ralphrazzouk/blackhole-simulator?style=flat-square&labelColor=343b41"/></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/ralphrazzouk/quantum-tunneling-simulator"><b>Quantum Tunneling</b></a></td>
+		<td><img alt="Paper" src="https://img.shields.io/github/stars/ralphrazzouk/quantumtunneling-simulator?style=flat-square&labelColor=343b41"/></td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/ralphrazzouk/quantumtunneling-simulator?style=flat-square&labelColor=343b41"/></td>
+		<td><img alt="Forks" src="https://img.shields.io/github/forks/ralphrazzouk/quantumtunneling-simulator?style=flat-square&labelColor=343b41"/></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/ralphrazzouk/alcubierre-drive-simulator"><b>Alcubierre Drive</b></a></td>
+		<td><img alt="Paper" src="https://img.shields.io/github/stars/ralphrazzouk/alcubierredrive-simulator?style=flat-square&labelColor=343b41"/></td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/ralphrazzouk/alcubierredrive-simulator?style=flat-square&labelColor=343b41"/></td>
+		<td><img alt="Forks" src="https://img.shields.io/github/forks/ralphrazzouk/alcubierredrive-simulator?style=flat-square&labelColor=343b41"/></td>
+	</tr>
+</tbody>
 </table>
 
 
