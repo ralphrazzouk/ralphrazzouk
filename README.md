@@ -58,11 +58,12 @@
 - 📄 | [Website](https://ralphrazzouk.com)
 - 📜 | [Curriculum Vitae](https://drive.google.com/file/d/19cTik527QDTQhS6Q5LMFCgOLGnt8Wrgh/view?usp=sharing)
 - 🏫 | B.Sc. Mathematics (Completed May 2023)
-- ⚛️ | Ph.D. Theoretical High-Energy and Mathematical Physics (Expected May 2028)
+- ⭐ | M.Sc Physics (Completed August 2025)
+- ⚛️ | Ph.D. Mathematical Physics (Expected May 2028)
 - 📜 | Favorite Equation: $G_{μν} = \frac{8 \pi G}{c^4} T_{μν}$
-- 💻 | Favorite Programming Langauge: <img src="/src/icons/python2.png" alt="Python" width="16px"/> Python
-- 📚 | Learning: Quantum field theory, differential geometry, and quantum machine learning
-- 🔭 | Researching: S-matrix Gauge Bootstrap and Quantum Machine Learning
+- 💻 | Favorite Programming Language: <img src="/src/icons/python2.png" alt="Python" width="16px"/> Python
+- 📚 | Learning: Category Theory, Topological Quantum Field Theory
+- 🔭 | Researching: Drinfeld Center, Monoidal/Tensor/Braided/Fusion Categories, Computational Complexity
 - 📩 | [Email](rlphrazz@gmail.com)
 
 
@@ -71,21 +72,23 @@
 
 - Mathematical Physics
 - Quantum Gravity
+- Category Theory
+- Topological Quantum Field Theory
+- Topological Quantum Computation
+- Quantum Complexity
 - String Theory
-- Conformal Field Theory
 - Black Holes
+- Conformal Field Theory
 - Dark Matter
 - Dark Energy
 - Computational Physics
-- Quantum Computation
 - Quantum Biology
-- Quantum Complexity
 
 
 
 <h2>I am open to</h2>
 
-- any collobration work
+- any collaboration work
 - computational physics projects (development or research)
 - machine learning projects (development or research)
 - research internships
