@@ -48,7 +48,7 @@
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://t.me/RalphRazzouk/"><img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=ralphrazzouk&label=Profile%20Views&color=12&icon=5&pretty=true" /></a>
+	<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fralphrazzouk"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fralphrazzouk&labelColor=%23ff0000&countColor=%23000000" /></a>
 </div>
 
 
