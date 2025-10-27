@@ -63,7 +63,7 @@
 - 📜 | Favorite Equation: $G_{μν} = \frac{8 \pi G}{c^4} T_{μν}$
 - 💻 | Favorite Programming Language: <img src="/src/icons/python2.png" alt="Python" width="16px"/> Python
 - 📚 | Learning: Category Theory, Topological Quantum Field Theory
-- 🔭 | Researching: Drinfeld Center, Monoidal/Tensor/Braided/Fusion Categories, Computational Complexity
+- 🔭 | Researching: Drinfeld Center, Fusion Categories, Computational Complexity
 - 📩 | [Email](rlphrazz@gmail.com)
 
 
