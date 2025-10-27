@@ -95,7 +95,7 @@
 
 
 
-<h2>My Projects</h2>
+<h2>Projects</h2>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -107,6 +107,12 @@
   </thead>
   
 <tbody>
+	<tr>
+		<td><a href="https://github.com/anyonwiki/"><b>AnyonWiki</b></a></td>
+		<td><img alt="Paper" src="https://img.shields.io/github/stars/anyonwiki/web?style=flat-square&labelColor=343b41"/></td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/anyonwiki/web?style=flat-square&labelColor=343b41"/></td>
+		<td><img alt="Forks" src="https://img.shields.io/github/forks/anyonwiki/web?style=flat-square&labelColor=343b41"/></td>
+	</tr>
 	<tr>
 		<td><a href="https://github.com/ralphrazzouk/quantum-gate-visualizer"><b>Quantum Gate Visualizer</b></a></td>
 		<td><img alt="Paper" src="https://img.shields.io/github/stars/ralphrazzouk/quantum-gate-visualizer?style=flat-square&labelColor=343b41"/></td>
