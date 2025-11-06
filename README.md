@@ -55,8 +55,9 @@
 <br />
 <br />
 
-- 📄 | [Website](https://ralphrazzouk.com)
+- 🌐 | [Website](https://ralphrazzouk.com)
 - 📜 | [Curriculum Vitae](https://drive.google.com/file/d/19cTik527QDTQhS6Q5LMFCgOLGnt8Wrgh/view?usp=sharing)
+- 📃 | [Transcript](https://github.com/ralphrazzouk/transcript)
 - 🏫 | B.Sc. Mathematics (Completed May 2023)
 - ⭐ | M.Sc Physics (Completed August 2025)
 - ⚛️ | Ph.D. Mathematical Physics (Expected May 2028)
